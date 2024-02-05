@@ -5,8 +5,8 @@ package exercise1;
  * It then searches the array of cards for the match to the user's card. 
  * To be used as starting code in Exercise
  *
- * @author dancye
- * @author Paul Bonenfant Jan 25, 2022 
+ * @author Krimal Patel
+ * @author Krimal Patel Feb 05, 2024 
  */
 public class CardTrick {
     
